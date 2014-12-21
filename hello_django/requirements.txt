@@ -1,0 +1,4 @@
+Django==1.7.1
+gunicorn==18.0
+gnureadline==6.3.3
+paramiko==1.15.1
